@@ -72,13 +72,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaywop06&hide_border=true&layout=compact)  
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Zaywop06/Zaywop06)  
-
-
-## :zap: Recent Activity
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
-
-<!-- seguir modificando https://shields.io/badges -->
-
-  ![Snake animation](https://github.com/Zaywop06/Zaywop06/blob/output/github-contribution-grid-snake.svg)
-
