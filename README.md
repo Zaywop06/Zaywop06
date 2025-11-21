@@ -45,7 +45,7 @@
 ---
 
 ### 📫 Contact Me
-- **Email:** [usielcolinperez06@gmail.com](mailto:usielcolinperez06@gmail.com)  
+- **Email:** [usielcolinbi016@gmail.com](mailto:usielcolinbi016@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/usiel-colin-b032b5383](https://www.linkedin.com/in/usiel-colin-b032b5383)  
 
 ---
